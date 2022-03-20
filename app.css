@@ -74,3 +74,17 @@ img {
     width: 100px;
     height: auto;
 }
+
+.btn {
+    text-decoration: none;
+    padding: 6px 16px;
+    border-radius: 1rem;
+    border: 1px solid blueviolet;
+    color: white;
+    background: blueviolet;
+}
+
+.btn:hover {
+    color: blueviolet;
+    background: #f5d9d5;
+}
